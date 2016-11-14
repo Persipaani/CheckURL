@@ -7,7 +7,7 @@ Results are stored in results.txt
 
 Usage:
 
-If you have Python just run src/main.py, use existing command line since the app just closes after it's done.
+If you have Python just run src/main.py.
 
 Example:
 
